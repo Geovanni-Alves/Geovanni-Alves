@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Geovanni-Alves
-- 👀 I’m interested in Software Devoloper
+- 👀 I’m interested in Became a Software Devoloper (FrontEnd and BackEnd)
 - 🌱 I’m currently learning Java and Python
 - 📫 How to reach me geo-estevam@hotmail.com
 
