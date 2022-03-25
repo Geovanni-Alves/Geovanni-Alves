@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Geovanni-Alves
-- 👀 I’m interested in Became a Software Developer (FrontEnd and BackEnd)
-- 🌱 I’m currently learning Java and Python and more
+- 👀 I’m interested in Become a Software Developer (FrontEnd and BackEnd)
+- 🌱 I’m currently learning Python
 - 📫 How to reach me geo-estevam@hotmail.com
 
 <!---
