@@ -22,7 +22,7 @@ I am a passionate software developer with a diverse background in programming la
   - **Tech Stack**: React Native, React, Supabase (remote and local).  
 
 ### 📂 Featured Repositories  
-- [After-School Program App](https://github.com/yourusername/after-school-program-app): React Native app for managing after-school program logistics and communication.  
+- [After-School Program App](https://github.com/Geovanni-Alves/ASP_APP_GB): React Native app for managing after-school program logistics and communication.  
 - [VBA Payroll System](https://github.com/yourusername/vba-payroll-system): A payroll automation system using VBA for Excel and Access.  
 
 ### 🌱 What I’m Learning  
